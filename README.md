@@ -118,21 +118,6 @@ Explore my other repositories for additional projects involving Python, SQL, das
 
 ---
 
-## 📈 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutujaparab20&show_icons=true&hide_border=true&theme=default" alt="GitHub Statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujaparab20&layout=compact&hide_border=true&theme=default" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rutujaparab20&hide_border=true&theme=default" alt="GitHub Contribution Streak" />
-</p>
-
----
 
 ## 🤝 Let's Connect!
 
